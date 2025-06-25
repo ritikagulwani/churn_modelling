@@ -1,3 +1,7 @@
+## model work flow
+![churn](https://github.com/user-attachments/assets/09900739-75d3-4dc7-aca3-96eb442ff607)
+
+ 
  ## Results & Insights
 Classification reports (precision, recall, F1‑score) for each model.
 
