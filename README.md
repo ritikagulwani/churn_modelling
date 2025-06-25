@@ -1,4 +1,4 @@
-## model work flow
+## Model work flow
 ![churn](https://github.com/user-attachments/assets/09900739-75d3-4dc7-aca3-96eb442ff607)
 
  
