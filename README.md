@@ -26,3 +26,16 @@ Original dataset: “Churn_Modelling.csv”
 Python (NumPy, pandas, Matplotlib, seaborn, scikit-learn, TensorFlow/Keras)
 
 Jupyter Notebook
+
+## Getting Started
+To run this project locally, follow these steps:
+
+1.Clone the repository
+
+2.Install the required libraries: If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.
+
+3.Launch Google Colab: https://colab.research.google.com/
+
+4.Open the carsales_py.ipynb file and run the notebook cells sequentially.
+
+
