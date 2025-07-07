@@ -36,6 +36,6 @@ To run this project locally, follow these steps:
 
 3.Launch Google Colab: https://colab.research.google.com/
 
-4.Open the carsales_py.ipynb file and run the notebook cells sequentially.
+4.Open the churn_modelling.ipynb file and run the notebook cells sequentially.
 
 
